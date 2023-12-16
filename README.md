@@ -1,23 +1,23 @@
 # day2
 
-#Data Types
+# Data Types
 
-#String
-#print("Hello"[0])  {output is H}
-#print("123"+"454")
-
-
-#Integer
-#print(123,345)
+# String
+# print("Hello"[0])  {output is H}
+# print("123"+"454")
 
 
-#Float
+# Integer
+# print(123,345)
+
+
+# Float
 # 3.14159
 
 
-#Boolean
-#True
-#False
+# Boolean
+# True
+# False
 
 # numb=4
 # print("Drishya " + str(numb) + " Gurung")
